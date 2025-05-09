@@ -1,0 +1,18 @@
+.background-custom-color {
+  background-color: #05203c;
+}
+
+.text-custom-color {
+  color: #05203c;
+}
+
+.btn-custom {
+  background-color: #05203c;
+  color: #f8f9fa;
+}
+
+.btn-custom:hover {
+  background-color: #f8f9fa;
+  color: #05203c;
+  border: solid 1px #05203c;
+}
