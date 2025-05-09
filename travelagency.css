@@ -2,6 +2,12 @@
   background-color: #05203c;
 }
 
+.bg-custom-color-light {
+  /* background-color: rgb(225, 240, 255); */
+  background-image: url("https://img.redbull.com/images/q_auto,f_auto/redbullcom/2015/11/10/1331758885657_2/adventurer-alastair-humphreys-hiking");
+  background-size: cover;
+}
+
 .text-custom-color {
   color: #05203c;
 }
