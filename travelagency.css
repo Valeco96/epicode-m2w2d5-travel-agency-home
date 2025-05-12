@@ -22,3 +22,11 @@
   color: #05203c;
   border: solid 1px #05203c;
 }
+
+.border-color {
+  border: 1px solid #133050;
+}
+
+.opacity-8 {
+  opacity: 0.8;
+}
