@@ -27,10 +27,32 @@
   border: 1px solid #133050;
 }
 
+.opacity-6 {
+  opacity: 0.2;
+}
+
 .opacity-8 {
   opacity: 0.8;
 }
 
 .navbar-toggler-icon {
   color: white;
+}
+
+.card-img-fixed {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.card-img-side {
+  height: 400px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.card-img-last-minute {
+  height: 280px;
+  width: 100%;
+  object-fit: cover;
 }
